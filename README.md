@@ -1,5 +1,7 @@
 # PrediksiTrendSaham
+
 File Algoritma Berisi Tentang Alur Algoritma dan Pengujian Tuning Parameter
+
 File Pengujian Berisi Tentang Pengujian Cross Validation
 
 List Tuning Parameter :
